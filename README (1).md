@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone👋</h1>
+<h1 align="center">Hello Dosto 👋</h1>
 
 <h3 align="center">CSE Student @ JSPM's RSCOE Pune|🚀 D2C & Dropshipping | 💻 Tech & AI Learner | 📈 Finance Enthusiast | 🇯🇵 Learning Japanese</h3>
 
@@ -8,6 +8,8 @@
 
 - 🔭 Currently working on my **Nidar Competition Project** — **AirMouse**
 - 🌱 Always learning about **emerging technologies and best practices**
+- 📚 Currently leveling up on **GitHub, MongoDB Compass, and Postman**
+- 👯 Looking to collaborate on **open-source projects** and tech initiatives
 - 💬 Ask me about **C++, MySQL, HTML, CSS, Python (intermediate), MongoDB, Node.js**
 - ⚡ Fun fact: I love sharing knowledge and exploring new tech
 
@@ -27,6 +29,14 @@
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB Compass" alt="MongoDB Compass" width="40" height="40"/>&nbsp;
+</p>
+
+### Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
 </p>
 
 <hr>
