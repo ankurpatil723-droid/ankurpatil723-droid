@@ -9,7 +9,6 @@
 - 🔭 Currently working on my **Nidar Competition Project** — **AirMouse**
 - 🌱 Always learning about **emerging technologies and best practices**
 - 📚 Currently leveling up on **GitHub, MongoDB Compass, and Postman**
-- 👯 Looking to collaborate on **open-source projects** and tech initiatives
 - 💬 Ask me about **C++, MySQL, HTML, CSS, Python (intermediate), MongoDB, Node.js**
 - ⚡ Fun fact: I love sharing knowledge and exploring new tech
 
