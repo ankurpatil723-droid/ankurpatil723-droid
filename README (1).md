@@ -1,6 +1,6 @@
 <h1 align="center">Hello Everyone 👋</h1>
 
-<h3 align="center">CSE Student @ JSPM's RSCOE Pune|🚀 D2C & Dropshipping | 💻 Tech & AI Learner | 📈 Finance Enthusiast | 🇯🇵 Learning Japanese</h3>
+<h3 align="center">CSE Student @ JSPM's RSCOE Pune|🚀  Dropshipping | 💻 Tech & AI Learner | 📈 Finance Enthusiast | 🇯🇵 Learning Japanese</h3>
 
 <hr>
 
