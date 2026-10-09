@@ -1,16 +1,107 @@
-## Hi there 👋
+<h1 align="center">Hello Everyone 👋</h1>
 
-<!--
-**ankurpatil723-droid/ankurpatil723-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CSE+Student+%40+JSPM's+RSCOE+Pune;Dropshipping+%7C+Tech+%26+AI+Learner;Finance+Enthusiast+%7C+Learning+Japanese" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">CSE Student @ JSPM's RSCOE Pune|🚀  Dropshipping | 💻 Tech & AI Learner | 📈 Finance Enthusiast | 🇯🇵 Learning Japanese</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+## 🚀 About Me
+
+- 🔭 Currently working on my **Nidar Competition Project** — **AirMouse**
+- 🌱 Always learning about **emerging technologies and best practices**
+- 📚 Currently leveling up on **GitHub, MongoDB Compass, and Postman**
+- 💬 Ask me about **C++, MySQL, HTML, CSS, Python (intermediate), MongoDB, Node.js, Linux, Computer Networking**
+- ⚡ Fun fact: I love sharing knowledge and exploring new tech
+
+<hr>
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+</p>
+
+### Databases & Monitoring
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="MongoDB Compass" alt="MongoDB Compass" width="40" height="40"/>&nbsp;
+</p>
+
+### Operating Systems & Networking
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://img.shields.io/badge/Computer%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" title="Computer Networking" alt="Computer Networking" height="34"/>&nbsp;
+</p>
+
+### Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+</p>
+
+<hr>
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ankurpatil723-droid&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurpatil723-droid&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<hr>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ankurpatil723-droid&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
+</p>
+
+<hr>
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankurpatil723-droid&theme=react-dark" alt="Activity Graph" />
+</p>
+
+<hr>
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ankur-patil-6a8764383" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="https://www.instagram.com/ankurpatil20" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-FOLLOW-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
+</a>&nbsp;
+<a href="mailto:ankurpatil723@gmail.com">
+<img src="https://img.shields.io/badge/Email-ankurpatil723%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"/>
+</a>
+</p>
+
+<hr>
+
+<p align="center">
+💡 <i>"Building the future, one deployment at a time"</i>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ankurpatil723-droid&color=green" alt="Profile views"/>&nbsp;
+<a href="https://github.com/ankurpatil723-droid">
+<img src="https://img.shields.io/github/followers/ankurpatil723-droid?label=Follow&style=social" alt="GitHub Follow"/>
+</a>
+</p>
