@@ -38,7 +38,6 @@
 ### Operating Systems & Networking
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://img.shields.io/badge/Computer%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" title="Computer Networking" alt="Computer Networking" height="34"/>&nbsp;
 </p>
 
